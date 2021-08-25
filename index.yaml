@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-25T07:33:12.070377499Z"
+    description: A Helm chart for Kubernetes
+    digest: aabd3b9582f51a200cac5019b6ec6274f86f00dd072393da8cc4e48d7232c460
+    name: chart-1
+    type: application
+    urls:
+    - https://prashanthalakshmi.github.io/chart-2/chart-1-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-25T07:33:12.069629184Z"
